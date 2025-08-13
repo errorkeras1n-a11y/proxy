@@ -1,5 +1,5 @@
 
-name = "ape-stats-proxy"
+name = "prox"
 main = "index.js"
 compatibility_date = "2024-01-01"
 # If you want a custom subdomain, set account_id in your Wrangler config or dashboard.
